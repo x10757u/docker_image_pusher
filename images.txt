@@ -3,3 +3,11 @@ kasmweb/nginx:1.25.3
 python:alpine3.19
 nginx:1.21.6
 nginx
+mysql
+ubuntu
+debian
+SUSE
+zabbix
+prometheus
+Gitlab
+Jenkins
