@@ -6,6 +6,4 @@ nginx
 mysql
 ubuntu
 debian
-zabbix
-prometheus
-Jenkins
+gitlab/gitlab-ce:latest
