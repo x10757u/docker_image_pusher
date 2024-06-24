@@ -6,8 +6,6 @@ nginx
 mysql
 ubuntu
 debian
-SUSE
 zabbix
 prometheus
-Gitlab
 Jenkins
