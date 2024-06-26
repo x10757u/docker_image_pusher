@@ -7,3 +7,4 @@ mysql
 ubuntu
 debian
 gitlab/gitlab-ce:latest
+gitlab-runner
