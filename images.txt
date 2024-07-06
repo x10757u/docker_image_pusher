@@ -9,4 +9,4 @@ debian
 gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
 jenkins/jenkins:2.319.1-lts
-docker.elastic.co/elasticsearch/elasticsearch:latest
+elasticsearch/elasticsearch:latest
