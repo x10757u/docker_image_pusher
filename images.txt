@@ -10,3 +10,4 @@ gitlab/gitlab-ce:latest
 gitlab/gitlab-runner:latest
 jenkins/jenkins:2.319.1-lts
 elasticsearch:7.9.3
+elasticsearch:8.6.2
