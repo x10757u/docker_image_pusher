@@ -11,3 +11,4 @@ gitlab/gitlab-runner:latest
 jenkins/jenkins:2.319.1-lts
 docker.elastic.co/elasticsearch/elasticsearch:8.6.2
 docker.elastic.co/kibana/kibana:8.6.2
+ubuntu/prometheus
