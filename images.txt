@@ -1,3 +1,9 @@
+阿里云私有仓库地址：
+docker login --username=x10757u@aliyun.com registry.cn-hangzhou.aliyuncs.com
+账号：x10757u@aliyun.com
+密码：X19274547_u
+
+
 alpine:3.19.1
 kasmweb/nginx:1.25.3
 python:alpine3.19
